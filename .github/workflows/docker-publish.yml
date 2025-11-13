@@ -24,7 +24,7 @@ env:
 
 jobs:
   integration:
-    uses: chriskaza81/03-05/.github/workflows/python-app.yml@main
+    uses: chriskaza81/03_05/.github/workflows/python-app.yml@main
     permissions:
       contents: read
       
